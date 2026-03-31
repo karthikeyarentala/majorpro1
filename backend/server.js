@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'oil video bunker salt catch cricket hockey grass vocal holiday final soldier';
+const MNEMONIC = 'walnut shoulder danger pledge reopen fresh normal own diet alley fever flash';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0x58c58747308734068a65afF4D825c712f843A5F5';
+const CONTRACT_ADDRESS = '0xF4206c78Ba9c0f9b4EC738ba8f9CedAEe54A6946';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
