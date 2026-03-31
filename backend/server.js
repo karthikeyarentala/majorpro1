@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'walnut shoulder danger pledge reopen fresh normal own diet alley fever flash';
+const MNEMONIC = 'robust enact senior people april whale era cube other million crane imitate';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0xF4206c78Ba9c0f9b4EC738ba8f9CedAEe54A6946';
+const CONTRACT_ADDRESS = '0x4CFA00Afa82d4Dee44FdE97D2d93d7a724051746';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
