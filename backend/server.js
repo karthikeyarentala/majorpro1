@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'robust enact senior people april whale era cube other million crane imitate';
+const MNEMONIC = 'elder brown enhance pepper wish rural toast whale bargain jar alley garbage';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0x4CFA00Afa82d4Dee44FdE97D2d93d7a724051746';
+const CONTRACT_ADDRESS = '0xa65FCeF1B54B6470f6dFE370e29A63a237340E76';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
