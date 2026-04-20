@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'party loop disorder swear knock select toddler salute solve club addict large';
+const MNEMONIC = 'diet rubber moral milk minor debris tonight sample pepper lion mix grab';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0xe521446269F7AeB2110cA3C04F8a60462269DceB';
+const CONTRACT_ADDRESS = '0x6163b2512C71BF63Ad3Fd95f826B61294bF60150';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
