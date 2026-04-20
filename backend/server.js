@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'swim vague lounge plate defy ordinary face impulse pepper income canoe you';
+const MNEMONIC = 'spatial neck eternal surge eyebrow pink casino castle erase choice opera script';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0x2B0121ceb853EE341fa166490F688d301a833380';
+const CONTRACT_ADDRESS = '0xC5E352D3951225Cc7F44b8F97Bf12725940a961a';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
