@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'tiny tell repair shallow health dawn high insect wolf penalty purse awkward';
+const MNEMONIC = 'weekend exact option weasel globe potato sauce attend sure exotic wall seminar';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0xBA7F523Dd796421b418AbDa345ada5dE1b10689B';
+const CONTRACT_ADDRESS = '0x2bae451988B912205BF4E2C58664268EFc9F03c0';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
