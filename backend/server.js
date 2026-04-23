@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'spatial neck eternal surge eyebrow pink casino castle erase choice opera script';
+const MNEMONIC = 'tiny tell repair shallow health dawn high insect wolf penalty purse awkward';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0xC5E352D3951225Cc7F44b8F97Bf12725940a961a';
+const CONTRACT_ADDRESS = '0xBA7F523Dd796421b418AbDa345ada5dE1b10689B';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
