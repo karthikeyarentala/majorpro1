@@ -18,9 +18,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const MNEMONIC = 'weekend exact option weasel globe potato sauce attend sure exotic wall seminar';
+const MNEMONIC = 'chef avocado force method hammer woman elegant sound armed kitchen drill girl';
 const RPC_URL = 'http://127.0.0.1:8545';
-const CONTRACT_ADDRESS = '0x2bae451988B912205BF4E2C58664268EFc9F03c0';
+const CONTRACT_ADDRESS = '0xa7Ad172f521Cf5c1fBB4B4d5b066B414CA143e49';
 const API_KEY = "snort-secret-key";
 const PORT = 3001;
 
